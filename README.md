@@ -6,6 +6,7 @@ Clone of popular video calling app Zoom.
 * User authentication using Gmail-id
 * Chatbox where users can chat with others in meet
 * Collaborative whiteboard in meet
+* Screensharing
 #
 ![Screenshot (31)](https://github.com/AlinaRizvi28/zoom_clone/assets/113281232/42cae2f7-fc67-44ca-88e1-719e01815475)
 #
