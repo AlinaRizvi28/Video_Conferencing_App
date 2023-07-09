@@ -1,4 +1,4 @@
-# zoom_clone
+# Video_Conferencing _App
 Clone of popular video calling app Zoom.
 
 # Features
